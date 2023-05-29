@@ -1,5 +1,5 @@
 # engrbugs
-:computer: Software Engineer | :gear: Automation | :bulb: AI/ML | :bar_chart: Data Engineering
+:gear: Automation | :bulb: AI/ML | :bar_chart: Data Engineering
 
 ✨ With over 14+ years of experience in the software industry, specializing in automation, AI/ML, and data engineering.
 
