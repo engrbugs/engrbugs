@@ -1,19 +1,11 @@
-# engrbugs
-:gear: Automation | :bulb: AI/ML | :bar_chart: Data Engineering
+engrbugs
 
-✨ With over 14+ years of experience in the software industry, specializing in automation, AI/ML, and data engineering.
+Automation | AI/ML | Data Engineering
 
-🚀 Expertise extends across multiple industries, including engineering, finance, and retail.
+Experienced in the software industry, specializing in automation, AI/ML, and data engineering.
 
-🌱 A dedicated learner who embraces new challenges and thrives in dynamic environments.
+Expertise spans engineering, finance, and retail industries.
 
-💡 Passionate about the potential of AI to transform industries and drive innovation.
+A dedicated learner thriving in dynamic environments.
 
-📧 Feel free to reach out to me for mentorship, consultation, or any exciting project at engrbugs@gmail.com.
-
-Let's collaborate and make a positive impact together! :rocket:
-
-<!---
-engrbugs/engrbugs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about AI's potential to transform industries and drive innovation.
